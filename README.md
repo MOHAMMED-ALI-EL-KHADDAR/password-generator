@@ -423,6 +423,6 @@ For security issues, do **not** open public issues. Security matters should be r
 
 ---
 
-**Last Updated**: 2024  
+**Last Updated**: 2026  
 **Python Version**: 3.10+  
 **Cryptographic Standard**: CSPRNG (secrets module)
